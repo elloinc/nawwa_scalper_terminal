@@ -24,3 +24,7 @@ node_modules
 # Documentation here: https://yarnpkg.com/features/zero-installs
 !.yarn/cache
 #.pnp.*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
